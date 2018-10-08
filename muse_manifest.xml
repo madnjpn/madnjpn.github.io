@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1538996196368">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539000463187">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="198655602" ref="index"/>
+    <file name="index.css" crc="3799310448" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,10 +11,6 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="background.jpg" crc="3833780942" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-  </folder>
-  <file name="index.html" crc="3825853358" seo="true" mt="1538996174642" redirect="true"/>
+  <folder name="images"/>
+  <file name="index.html" crc="4028323111" seo="true" mt="1538997922151" redirect="false"/>
 </manifest>

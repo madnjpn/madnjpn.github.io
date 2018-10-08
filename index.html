@@ -16,22 +16,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=198655602" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3799310448" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="browser_width grpelem" id="u94-bw">
-    <div id="u94"><!-- group -->
-     <div class="clearfix" id="u94_align_to_page">
-      <div class="grpelem" id="u108"><!-- simple frame --></div>
-     </div>
-    </div>
-   </div>
-   <div class="verticalspacer" data-offset-top="437" data-content-above-spacer="436" data-content-below-spacer="62"></div>
-   <div class="browser_width grpelem" id="u105-bw">
-    <div id="u105"><!-- simple frame --></div>
-   </div>
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="600"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -48,8 +38,6 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

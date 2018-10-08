@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1538995952368">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1538996196368">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="102041189" ref="index"/>
+    <file name="index.css" crc="198655602" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,5 +16,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="286537218" seo="true" mt="1538995919276" redirect="true"/>
+  <file name="index.html" crc="3825853358" seo="true" mt="1538996174642" redirect="true"/>
 </manifest>

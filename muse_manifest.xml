@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539095545095">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539095686703">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="222320949" ref="index"/>
     <file name="master_landing.css" crc="98954439" ref="index"/>
-    <file name="master_home-page.css" crc="3926921307" ref="home:gallery:services"/>
-    <file name="home.css" crc="4202376899" ref="home"/>
-    <file name="gallery.css" crc="292776695" ref="gallery"/>
-    <file name="services.css" crc="4120920488" ref="services"/>
+    <file name="master_home-page.css" crc="4136364209" ref="home:gallery:services"/>
+    <file name="home.css" crc="55985820" ref="home"/>
+    <file name="gallery.css" crc="4142497055" ref="gallery"/>
+    <file name="services.css" crc="372697397" ref="services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:gallery:services"/>
@@ -30,11 +30,6 @@
       <caption webpage="gallery" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="home" alt=""/>
-    </file>
-    <file name="background blured.jpg" crc="263348544" ref="home:gallery:services">
-      <caption webpage="home" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="services" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="gallery"/>
     <file name="loading.gif" crc="3815509949" ref="gallery"/>
@@ -251,9 +246,13 @@
     <file name="infinityvisuals text.png" crc="531067501" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blurred background black.jpg" crc="4046253563" ref="gallery:services:home">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3949869295" seo="true" mt="1539095488546" redirect="true"/>
-  <file name="home.html" crc="3770191307" seo="true" mt="1539094867735" redirect="true"/>
-  <file name="gallery.html" crc="204790097" seo="true" mt="1539092990811" redirect="true"/>
-  <file name="services.html" crc="4176859035" seo="true" mt="1539092990811" redirect="true"/>
+  <file name="home.html" crc="4260779788" seo="true" mt="1539095680498" redirect="true"/>
+  <file name="gallery.html" crc="154108120" seo="true" mt="1539095649126" redirect="true"/>
+  <file name="services.html" crc="4075686433" seo="true" mt="1539095649126" redirect="true"/>
 </manifest>

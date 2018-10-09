@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539088124348">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539089206912">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205518204" ref="index"/>
     <file name="master_landing.css" crc="145607525" ref="index"/>
-    <file name="master_home-page.css" crc="347055105" ref="home:gallery:services"/>
-    <file name="home.css" crc="96786145" ref="home"/>
-    <file name="gallery.css" crc="3874355480" ref="gallery"/>
+    <file name="master_home-page.css" crc="3926921307" ref="home:gallery:services"/>
+    <file name="home.css" crc="372103893" ref="home"/>
+    <file name="gallery.css" crc="292776695" ref="gallery"/>
     <file name="services.css" crc="4289926156" ref="services"/>
   </folder>
   <folder name="scripts">
@@ -65,94 +65,94 @@
     <file name="bookmytic.png" crc="3977143624" ref="services">
       <caption webpage="services" alt=""/>
     </file>
-    <file name="41770547_1951129024954097_1483025131834966016_o-crop-u4124.jpg" crc="3947222173" seo="true" ref="gallery">
+    <file name="41770547_1951129024954097_1483025131834966016_o-crop-u4124.jpg" crc="4135166734" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38777302_1897496163650717_5301764431124889600_o-crop-u3578.jpg" crc="4185884958" seo="true" ref="gallery">
+    <file name="38777302_1897496163650717_5301764431124889600_o-crop-u3578.jpg" crc="3885189568" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38787444_1897496193650714_7388007355926970368_o-crop-u3708.jpg" crc="9586104" seo="true" ref="gallery">
+    <file name="38787444_1897496193650714_7388007355926970368_o-crop-u3708.jpg" crc="29645706" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38829231_1897495726984094_5277800570902544384_o-crop-u3838.jpg" crc="115771527" seo="true" ref="gallery">
+    <file name="38829231_1897495726984094_5277800570902544384_o-crop-u3838.jpg" crc="232673069" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41776447_1951128784954121_5252670936296980480_n-crop-u4176.jpg" crc="181924674" seo="true" ref="gallery">
+    <file name="41776447_1951128784954121_5252670936296980480_n-crop-u4176.jpg" crc="4271860637" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41250549_1942746182459048_4108632974541455360_n-crop-u3968.jpg" crc="167581582" seo="true" ref="gallery">
+    <file name="41250549_1942746182459048_4108632974541455360_n-crop-u3968.jpg" crc="63252728" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38754413_1897495796984087_4882931169017987072_n-crop-u3474.jpg" crc="281724962" seo="true" ref="gallery">
+    <file name="38754413_1897495796984087_4882931169017987072_n-crop-u3474.jpg" crc="3781500415" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38777303_1897495990317401_1356373688806539264_o-crop-u3604.jpg" crc="156983310" seo="true" ref="gallery">
+    <file name="38777303_1897495990317401_1356373688806539264_o-crop-u3604.jpg" crc="21676527" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38793852_1897496593650674_4542551540476411904_o-crop-u3734.jpg" crc="24184691" seo="true" ref="gallery">
+    <file name="38793852_1897496593650674_4542551540476411904_o-crop-u3734.jpg" crc="4017153048" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38839114_1897496083650725_2829172086897901568_o-crop-u3864.jpg" crc="4157106097" seo="true" ref="gallery">
+    <file name="38839114_1897496083650725_2829172086897901568_o-crop-u3864.jpg" crc="3839024731" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41791743_1951128208287512_341119032931385344_n-crop-u4202.jpg" crc="232989769" seo="true" ref="gallery">
+    <file name="41791743_1951128208287512_341119032931385344_n-crop-u4202.jpg" crc="408840527" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41319351_1942746192459047_5634217534312939520_o-crop-u3994.jpg" crc="4243885034" seo="true" ref="gallery">
+    <file name="41319351_1942746192459047_5634217534312939520_o-crop-u3994.jpg" crc="44238667" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38770631_1897495976984069_2520773270173646848_o-crop-u3500.jpg" crc="3907900631" seo="true" ref="gallery">
+    <file name="38770631_1897495976984069_2520773270173646848_o-crop-u3500.jpg" crc="3775174673" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38779261_1897495846984082_7286145695331909632_n-crop-u3630.jpg" crc="207745188" seo="true" ref="gallery">
+    <file name="38779261_1897495846984082_7286145695331909632_n-crop-u3630.jpg" crc="4268897656" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38796551_1897496313650702_4567298145603551232_o-crop-u3760.jpg" crc="391602011" seo="true" ref="gallery">
+    <file name="38796551_1897496313650702_4567298145603551232_o-crop-u3760.jpg" crc="222041442" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38845507_1897496350317365_2341408336311746560_o-crop-u3890.jpg" crc="103282720" seo="true" ref="gallery">
+    <file name="38845507_1897496350317365_2341408336311746560_o-crop-u3890.jpg" crc="4232403595" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41801850_1951128084954191_2814708196118102016_n-crop-u4228.jpg" crc="4247473647" seo="true" ref="gallery">
+    <file name="41801850_1951128084954191_2814708196118102016_n-crop-u4228.jpg" crc="4076687732" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41326778_1942746195792380_6121729827448815616_n-crop-u4020.jpg" crc="157449837" seo="true" ref="gallery">
+    <file name="41326778_1942746195792380_6121729827448815616_n-crop-u4020.jpg" crc="278675257" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38772414_1897495853650748_102258721731641344_o-crop-u3526.jpg" crc="3823235947" seo="true" ref="gallery">
+    <file name="38772414_1897495853650748_102258721731641344_o-crop-u3526.jpg" crc="4121190297" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38779954_1897496426984024_2123292085791490048_o-crop-u3656.jpg" crc="4096493545" seo="true" ref="gallery">
+    <file name="38779954_1897496426984024_2123292085791490048_o-crop-u3656.jpg" crc="3807844517" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41743956_1951128818287451_2896628873313648640_n-crop-u4098.jpg" crc="3903946299" seo="true" ref="gallery">
+    <file name="41743956_1951128818287451_2896628873313648640_n-crop-u4098.jpg" crc="3892751014" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38872089_1897496226984044_8885909051884437504_o-crop-u3916.jpg" crc="484209101" seo="true" ref="gallery">
+    <file name="38872089_1897496226984044_8885909051884437504_o-crop-u3916.jpg" crc="4025954395" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41820785_1951128721620794_4290291201896087552_n-crop-u4254.jpg" crc="280278138" seo="true" ref="gallery">
+    <file name="41820785_1951128721620794_4290291201896087552_n-crop-u4254.jpg" crc="4182103899" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41360658_1942746272459039_3577020661584887808_o-crop-u4046.jpg" crc="145681694" seo="true" ref="gallery">
+    <file name="41360658_1942746272459039_3577020661584887808_o-crop-u4046.jpg" crc="3900833450" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38773268_1897496406984026_6041225304049975296_n-crop-u3552.jpg" crc="4266542432" seo="true" ref="gallery">
+    <file name="38773268_1897496406984026_6041225304049975296_n-crop-u3552.jpg" crc="3970384405" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38781046_1897496303650703_1534858455020470272_o-crop-u3682.jpg" crc="474878046" seo="true" ref="gallery">
+    <file name="38781046_1897496303650703_1534858455020470272_o-crop-u3682.jpg" crc="16244465" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38810882_1897496530317347_8711625291966971904_o-crop-u3812.jpg" crc="4278566546" seo="true" ref="gallery">
+    <file name="38810882_1897496530317347_8711625291966971904_o-crop-u3812.jpg" crc="4294124848" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="38916139_1897496040317396_3897946867119423488_o-crop-u3942.jpg" crc="4252368834" seo="true" ref="gallery">
+    <file name="38916139_1897496040317396_3897946867119423488_o-crop-u3942.jpg" crc="78508003" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41774020_1951128898287443_1526485381917179904_o-crop-u4150.jpg" crc="378206279" seo="true" ref="gallery">
+    <file name="41774020_1951128898287443_1526485381917179904_o-crop-u4150.jpg" crc="4244646073" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="41728235_1951128178287515_7799318274872705024_n-crop-u4072.jpg" crc="3881032979" seo="true" ref="gallery">
+    <file name="41728235_1951128178287515_7799318274872705024_n-crop-u4072.jpg" crc="4038891897" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="38770631_1897495976984069_2520773270173646848_o.jpg" crc="17010680" seo="true" ref="gallery">
@@ -242,9 +242,12 @@
     <file name="41801850_1951128084954191_2814708196118102016_n.jpg" crc="4280729537" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
+    <file name="1.jpg" crc="188200478" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4149311263" seo="true" mt="1539079972334" redirect="true"/>
-  <file name="home.html" crc="4116159529" seo="true" mt="1539082823778" redirect="true"/>
-  <file name="gallery.html" crc="298207471" seo="true" mt="1539087955348" redirect="true"/>
+  <file name="home.html" crc="156955826" seo="true" mt="1539089197696" redirect="true"/>
+  <file name="gallery.html" crc="498752913" seo="true" mt="1539088754055" redirect="true"/>
   <file name="services.html" crc="82629088" seo="true" mt="1539087796465" redirect="true"/>
 </manifest>

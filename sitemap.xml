@@ -12,4 +12,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://madnjpn.github.io/gallery.html</loc>
+    <lastmod>2018-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://madnjpn.github.io/images/99-crop-u2529.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madnjpn.github.io/images/100-crop-u2549.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madnjpn.github.io/images/111-crop-u2569.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madnjpn.github.io/images/112-crop-u2589.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://madnjpn.github.io/services.html</loc>
+    <lastmod>2018-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

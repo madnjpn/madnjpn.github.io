@@ -1,21 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539074762668">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539079392806">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205518204" ref="index"/>
     <file name="master_landing.css" crc="4285924319" ref="index"/>
-    <file name="master_home-page.css" crc="86122376" ref="home"/>
-    <file name="home.css" crc="4178988492" ref="home"/>
+    <file name="master_home-page.css" crc="3760036102" ref="home:gallery:services"/>
+    <file name="home.css" crc="4064047533" ref="home"/>
+    <file name="gallery.css" crc="3966074770" ref="gallery"/>
+    <file name="services.css" crc="260658333" ref="services"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
-    <file name="museutils.js" crc="340535759" ref="index:home"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:home"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:home"/>
-    <file name="require.js" crc="7928878" ref="index:home"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:home"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="home"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:gallery:services"/>
+    <file name="museutils.js" crc="340535759" ref="index:home:gallery:services"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:gallery:services"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home:gallery:services"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home:gallery:services"/>
+    <file name="require.js" crc="7928878" ref="index:home:gallery:services"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:home:gallery:services"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="home:gallery:services"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:gallery:services"/>
+    <file name="webpro.js" crc="4059564322" ref="gallery:services"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="gallery"/>
+    <file name="touchswipe.js" crc="4075097462" ref="gallery"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="services"/>
   </folder>
   <folder name="images">
     <file name="background.jpg" crc="4185535830" ref="index">
@@ -23,12 +30,53 @@
     </file>
     <file name="infinityvisuals text white.png" crc="3770954194" ref="index:home">
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="home" alt=""/>
     </file>
-    <file name="background blured.jpg" crc="263348544" ref="home">
+    <file name="background blured.jpg" crc="263348544" ref="home:gallery:services">
       <caption webpage="home" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="99-crop-u2529.jpg" crc="183180907" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="100-crop-u2549.jpg" crc="4092283637" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="111-crop-u2569.jpg" crc="3987820413" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="112-crop-u2589.jpg" crc="18822279" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="41820785_1951128721620794_4290291201896087552_n.jpg" crc="155043607" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="41319351_1942746192459047_5634217534312939520_o.jpg" crc="28212151" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="41774020_1951128898287443_1526485381917179904_o.jpg" crc="419048575" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ansi high res ( motors grey ).png" crc="359874003" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rj varoon.png" crc="4020645037" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="test.png" crc="3993233339" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="bookmytic.png" crc="3977143624" ref="services">
+      <caption webpage="services" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="502524024" seo="true" mt="1539073087389" redirect="true"/>
-  <file name="home.html" crc="4267757553" seo="true" mt="1539074692475" redirect="true"/>
+  <file name="home.html" crc="3774633901" seo="true" mt="1539079386398" redirect="true"/>
+  <file name="gallery.html" crc="9455100" seo="true" mt="1539079386398" redirect="true"/>
+  <file name="services.html" crc="4262474273" seo="true" mt="1539079386398" redirect="true"/>
 </manifest>

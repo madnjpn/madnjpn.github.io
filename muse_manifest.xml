@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539089206912">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539089331202">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205518204" ref="index"/>
     <file name="master_landing.css" crc="145607525" ref="index"/>
     <file name="master_home-page.css" crc="3926921307" ref="home:gallery:services"/>
-    <file name="home.css" crc="372103893" ref="home"/>
+    <file name="home.css" crc="73110667" ref="home"/>
     <file name="gallery.css" crc="292776695" ref="gallery"/>
     <file name="services.css" crc="4289926156" ref="services"/>
   </folder>
@@ -247,7 +247,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4149311263" seo="true" mt="1539079972334" redirect="true"/>
-  <file name="home.html" crc="156955826" seo="true" mt="1539089197696" redirect="true"/>
+  <file name="home.html" crc="93785243" seo="true" mt="1539089323241" redirect="true"/>
   <file name="gallery.html" crc="498752913" seo="true" mt="1539088754055" redirect="true"/>
   <file name="services.html" crc="82629088" seo="true" mt="1539087796465" redirect="true"/>
 </manifest>

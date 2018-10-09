@@ -1,25 +1,34 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539068071750">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539069797500">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="132359932" ref="index"/>
-    <file name="master_landing.css" crc="276152555" ref="index"/>
+    <file name="index.css" crc="4205518204" ref="index"/>
+    <file name="master_landing.css" crc="4285924319" ref="index"/>
+    <file name="master_home-page.css" crc="4052453516" ref="home"/>
+    <file name="home.css" crc="104705910" ref="home"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
+    <file name="museutils.js" crc="340535759" ref="index:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home"/>
+    <file name="require.js" crc="7928878" ref="index:home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:home"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home"/>
   </folder>
   <folder name="images">
     <file name="background.jpg" crc="4185535830" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="infinityvisuals text white.png" crc="3770954194" ref="index">
+    <file name="infinityvisuals text white.png" crc="3770954194" ref="index:home">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="background blured.jpg" crc="263348544" ref="home">
+      <caption webpage="home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="350902296" seo="true" mt="1539068065040" redirect="true"/>
+  <file name="index.html" crc="4239280713" seo="true" mt="1539069160351" redirect="true"/>
+  <file name="home.html" crc="234578495" seo="true" mt="1539069793926" redirect="true"/>
 </manifest>

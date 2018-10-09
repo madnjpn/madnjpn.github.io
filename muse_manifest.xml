@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539063580957">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539063937958">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="74829227" ref="index"/>
+    <file name="index.css" crc="430883128" ref="index"/>
     <file name="master_landing.css" crc="135558139" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -14,12 +14,12 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1.jpg" crc="178090722" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="infinityvisuals text.png" crc="394017190" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="background.jpg" crc="171494886" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="143713881" seo="true" mt="1539063577325" redirect="true"/>
+  <file name="index.html" crc="3910743664" seo="true" mt="1539063910415" redirect="true"/>
 </manifest>

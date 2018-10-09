@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539079392806">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539082240603">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205518204" ref="index"/>
-    <file name="master_landing.css" crc="4285924319" ref="index"/>
+    <file name="master_landing.css" crc="145607525" ref="index"/>
     <file name="master_home-page.css" crc="3760036102" ref="home:gallery:services"/>
-    <file name="home.css" crc="4064047533" ref="home"/>
+    <file name="home.css" crc="299083093" ref="home"/>
     <file name="gallery.css" crc="3966074770" ref="gallery"/>
     <file name="services.css" crc="260658333" ref="services"/>
   </folder>
@@ -30,14 +30,14 @@
     </file>
     <file name="infinityvisuals text white.png" crc="3770954194" ref="index:home">
       <caption webpage="index" alt=""/>
-      <caption webpage="gallery" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="background blured.jpg" crc="263348544" ref="home:gallery:services">
+      <caption webpage="services" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="services" alt=""/>
     </file>
     <file name="99-crop-u2529.jpg" crc="183180907" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
@@ -75,8 +75,8 @@
       <caption webpage="services" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="502524024" seo="true" mt="1539073087389" redirect="true"/>
-  <file name="home.html" crc="3774633901" seo="true" mt="1539079386398" redirect="true"/>
+  <file name="index.html" crc="4149311263" seo="true" mt="1539079972334" redirect="true"/>
+  <file name="home.html" crc="12942969" seo="true" mt="1539082226572" redirect="true"/>
   <file name="gallery.html" crc="9455100" seo="true" mt="1539079386398" redirect="true"/>
   <file name="services.html" crc="4262474273" seo="true" mt="1539079386398" redirect="true"/>
 </manifest>

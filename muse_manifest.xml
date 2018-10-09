@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539073091377">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539074762668">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205518204" ref="index"/>
     <file name="master_landing.css" crc="4285924319" ref="index"/>
     <file name="master_home-page.css" crc="86122376" ref="home"/>
-    <file name="home.css" crc="484493584" ref="home"/>
+    <file name="home.css" crc="4178988492" ref="home"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
@@ -30,5 +30,5 @@
     </file>
   </folder>
   <file name="index.html" crc="502524024" seo="true" mt="1539073087389" redirect="true"/>
-  <file name="home.html" crc="4147550722" seo="true" mt="1539073066275" redirect="true"/>
+  <file name="home.html" crc="4267757553" seo="true" mt="1539074692475" redirect="true"/>
 </manifest>

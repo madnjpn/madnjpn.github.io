@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539094873745">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madnjpn.github.io" resolutions="1x" timestamp="1539095545095">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4205518204" ref="index"/>
-    <file name="master_landing.css" crc="272894988" ref="index"/>
+    <file name="index.css" crc="222320949" ref="index"/>
+    <file name="master_landing.css" crc="98954439" ref="index"/>
     <file name="master_home-page.css" crc="3926921307" ref="home:gallery:services"/>
     <file name="home.css" crc="4202376899" ref="home"/>
     <file name="gallery.css" crc="292776695" ref="gallery"/>
@@ -25,10 +25,7 @@
     <file name="musewpdisclosure.js" crc="3883500470" ref="services"/>
   </folder>
   <folder name="images">
-    <file name="background.jpg" crc="4185535830" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="infinityvisuals text white.png" crc="3770954194" ref="index:gallery:home">
+    <file name="infinityvisuals text white.png" crc="3770954194" ref="gallery:home">
       <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="services" alt=""/>
@@ -248,8 +245,14 @@
     <file name="1.jpg" crc="188200478" ref="home">
       <caption webpage="home" alt=""/>
     </file>
+    <file name="background black.jpg" crc="3951595470" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infinityvisuals text.png" crc="531067501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="210167791" seo="true" mt="1539091092234" redirect="true"/>
+  <file name="index.html" crc="3949869295" seo="true" mt="1539095488546" redirect="true"/>
   <file name="home.html" crc="3770191307" seo="true" mt="1539094867735" redirect="true"/>
   <file name="gallery.html" crc="204790097" seo="true" mt="1539092990811" redirect="true"/>
   <file name="services.html" crc="4176859035" seo="true" mt="1539092990811" redirect="true"/>

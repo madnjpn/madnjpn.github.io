@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-17_2119",
+    "name": "INFINITYVISUALS",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -35,6 +35,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/v2-red-with-glitch-128x128.png",
+    "noImageResize": "",
+    "canonical-url": "",
     "uniqCompNum": 7,
     "versionPublish": "4.10.15"
   },
